@@ -1,0 +1,59 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_namediv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_namediv img {
+    width: 100%;
+}
+
+.travel_namediv hr {
+    width: 230px;
+}
+
+.travel_namediv h5,
+.travel_namediv p {
+    margin-left: 20px;
+}
+
+.enviroment_li {
+    margin-top: 13px;
+
+}
+
+.img_modal {
+    display: inline-block;
+
+}
+
+.p_modal {
+    margin-top: 10px;
+
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.book {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
